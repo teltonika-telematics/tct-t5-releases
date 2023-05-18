@@ -1,2 +1,3 @@
-# tct-t5-releases
-TCT T5 public releases
+# 🔵 Telematics Configuration Tool T5
+
+Repository for public new platform releases for download.
